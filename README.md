@@ -11,17 +11,9 @@ Time spent: 3 hours spent in total
 
 The following **required** functionality is completed:
 
-* Complet
+* Built a replica of turtle cross game with Python OOP and turtle module
 
 
-The following **optional** features are implemented:
-
-* Added Personal Design to Stats Section and Cursor Pointer to Buttons 
-* Deployed to Github Pages https://akhmadmamirov.github.io/CodepathWeb102pre-work/
-
-## Deployed into Production
-Checkout Below
-https://akhmadmamirov.github.io/CodepathWeb102pre-work/
 
 ## Video Walkthrough
 
