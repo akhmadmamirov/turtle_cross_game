@@ -1,4 +1,4 @@
-#turtle_cross_game
+# Turtle_cross_game
 
 Submitted by: Akhmadillo Mamirov - College of Wooster
 
