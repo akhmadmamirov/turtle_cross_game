@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://media.giphy.com/media/gCSzTHs5Cn8C12JJ31/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/wNkN9WkF8jVv4hoAry/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Giphy 
