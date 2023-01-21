@@ -26,9 +26,6 @@ GIF created with Giphy
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-
-<!-- Replace this with whatever GIF tool you used! -->
-deployed with Github pages
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -40,6 +37,6 @@ Describe any challenges encountered while building the app.
 Enjoyed building this project
 ## License
 
-    Copyright December, 2022 Akhmadillo Mamirov
+    Copyright December, 2023 Akhmadillo Mamirov
 
   
